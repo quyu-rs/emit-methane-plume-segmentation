@@ -10,6 +10,7 @@ The framework delineates methane plumes in two stages. A CNN–Mamba network use
 
 <img width="1004" height="433" alt="image" src="https://github.com/user-attachments/assets/566b111c-c2d9-4e7b-b174-c03d60506768" />
 
+<img width="1004" height="483" alt="image" src="https://github.com/user-attachments/assets/c8d2b0bd-8b8b-4a6e-bba6-dabca64dced0" />
 
 ## Dataset
 

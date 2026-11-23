@@ -1,4 +1,4 @@
-# emit-methane-plume-segmentation
+<img width="1004" height="433" alt="image" src="https://github.com/user-attachments/assets/566b111c-c2d9-4e7b-b174-c03d60506768" /># emit-methane-plume-segmentation
 Methane plume segmentation in EMIT imagery using CNN–Mamba localization and conditional diffusion refinement.
 # Methane Plume Segmentation in EMIT Imagery
 
@@ -7,6 +7,9 @@ This repository accompanies our study of methane plume segmentation using observ
 ## Method
 
 The framework delineates methane plumes in two stages. A CNN–Mamba network uses 41 shortwave infrared bands, three RGB channels, and a methane enhancement (ENH) map to estimate a plume probability for each pixel. A conditional diffusion refiner then uses the same imagery and the initial probability map to predict a residual correction.
+
+
+
 
 ## Dataset
 

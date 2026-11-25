@@ -20,6 +20,11 @@ The EMIT dataset contains 4,372 patches of 512 × 512 pixels. Of these, 2,366 co
 <img width="1004" height="670" alt="image" src="https://github.com/user-attachments/assets/e6ca3d55-14c9-420b-8721-ad029536aed0" />
 Figure 3. Global distribution of the collected EMIT methane plume samples.
 
+## Data availability
+
+Because of its size, the processed EMIT patch dataset is distributed directly by the corresponding author. To obtain the 45-channel image patches and their corresponding reference masks, please email [quyu0813@m.scnu.edu.cn](mailto:quyu0813@m.scnu.edu.cn).
+
+
 ## Planned release
 
 - Training, inference, and evaluation code
